@@ -63,7 +63,7 @@
     margin-left: 20px;
 }
 .sezon .buttons button {
-    margin-left: 60px;
+    margin-left: 50px;
     list-style: none;
     display: inline-block;
     margin: 10px;
@@ -71,6 +71,7 @@
     background-color: rgb(250, 145, 8);
     font-size: 20px;
     font-family: sans-serif;
+
 
 }
 .sezon_2 h1{

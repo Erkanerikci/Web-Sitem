@@ -5,10 +5,11 @@
 .container{
     background: url(Bölümler_ArkaPlan.jpg);
     height:100vh;
+    
     background-size: 100% 100% 100%;
-    background-position:center;-position:relative;
+    background-position:85% 25%;-position:relative;
     background-repeat:no-repeat;-repeat:no-repeat;
-    background-color: rgb(0, 0, 0);
+    background-color: dimgray ;
 
 }
 .container .navbar{
@@ -77,19 +78,29 @@
 }
 .sezon_2 h1{
     color: rgb(255, 255, 255);
-    margin-left: 5px;
+    margin-left: 400px;
+    margin-top: -200px;
+    font-size: 56px;
+    font-family:monospace;
 }
 .sezon_2 h2{
     color: rgb(255, 0, 0);
-    margin-left: 3px;
+    margin-left: 630px;
+    margin-top: 25px;
+    font-size: 56px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .sezon1 .trailer video{
-    margin-top: 100px;
+    height: 400px;
+    width:400px;
+    background-position: center;
+    margin-top: -90px;
     float: right;
-    margin-right: 300px;
+    margin-right: 800px;
+    background-color: transparent;
 }
 .sezon1 .yazi h1{
-    margin-right: 505px;
+    margin-right: 867px;
     float:right ;
     color: rgb(238, 255, 0);
     background-color: rgb(241, 0, 0);
